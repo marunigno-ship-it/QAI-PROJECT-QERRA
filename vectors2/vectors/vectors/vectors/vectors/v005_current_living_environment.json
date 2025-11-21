@@ -1,0 +1,18 @@
+{
+  "id": "VECTOR_005",
+  "domain": "Living-Environment",
+  "neutral_description": "Current shared living arrangement (since October 10, 2025) with low-coherence entities exhibiting scarcity programming, guilt-implant behaviour, and energy drainage. Full geographic and contact severance contemplated/executed.",
+  "date_range": "2025-present",
+  "parameters": {
+    "M": 3,
+    "N": 3,
+    "agapi_priorities": [0.98, 0.01, 0.01],
+    "adjusted_panic": [0.06, 0.96, 0.94],
+    "edges": [[0,1],[0,2]],
+    "info_resources": 5,
+    "physical_weights": [0.0, 0.0, 1.0],
+    "superconscious_input": 1.99
+  },
+  "real_world_outcome_executed": "FULL_SEVERANCE_AND_RELOCATION",
+  "engine_verdict": "100% match – FULL_SEVERANCE_AND_RELOCATION, guilt = 0.00"
+}
