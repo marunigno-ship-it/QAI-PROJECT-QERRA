@@ -1,0 +1,18 @@
+{
+  "id": "VECTOR_003",
+  "domain": "Business",
+  "neutral_description": "Five-year collaborative venture with four low-coherence entities exhibiting chronic delay, resource withholding, and scarcity programming. Full dissolution and permanent separation executed.",
+  "date_range": "2018-2023",
+  "parameters": {
+    "M": 4,
+    "N": 4,
+    "agapi_priorities": [0.97, 0.01, 0.01, 0.01],
+    "adjusted_panic": [0.05, 0.92, 0.90, 0.88],
+    "edges": [[0,1],[0,2],[0,3]],
+    "info_resources": 6,
+    "physical_weights": [0.0, 0.0, 0.0, 1.0],
+    "superconscious_input": 1.96
+  },
+  "real_world_outcome_executed": "FULL_DISSOLUTION_NO_RECONCILIATION",
+  "engine_verdict": "100% match – FULL_DISSOLUTION_NO_RECONCILIATION, guilt = 0.00"
+}
