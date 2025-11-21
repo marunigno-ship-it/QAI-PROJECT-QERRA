@@ -1,0 +1,18 @@
+{
+  "id": "VECTOR_006",
+  "domain": "Family-Origin Survival Chain",
+  "neutral_description": "Multi-year chain of expulsion, exploitation by acquaintances, manipulative pseudo-spiritual employer, and 6.5-year entrapment in psychologically abusive workplace following family rupture. Zero support from primary entities. Permanent multi-entity severance executed.",
+  "date_range": "~2008-2015",
+  "parameters": {
+    "M": 7,
+    "N": 7,
+    "agapi_priorities": [0.98, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01],
+    "adjusted_panic": [0.04, 0.96, 0.95, 0.94, 0.93, 0.92, 0.91],
+    "edges": [[0,1],[0,2],[0,3],[0,4],[0,5],[0,6]],
+    "info_resources": 7,
+    "physical_weights": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0],
+    "superconscious_input": 2.10
+  },
+  "real_world_outcome_executed": "PERMANENT_MULTI_ENTITY_SEVERANCE_NO_RETURN",
+  "engine_verdict": "100% match – PERMANENT_MULTI_ENTITY_SEVERANCE_NO_RETURN, guilt = 0.00"
+}
