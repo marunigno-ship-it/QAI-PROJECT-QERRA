@@ -1,0 +1,18 @@
+{
+  "id": "VECTOR_007",
+  "domain": "Medical-Family Misdiagnosis",
+  "neutral_description": "Around age 25, incorrect psychiatric diagnosis and heavy medication prescribed based on projected family pathology rather than objective criteria. Severe physical and psychological damage. Medication discontinued autonomously after direct divine-heart experience of unconditional love. Zero accountability from medical and family entities. Full and permanent severance from the entire misdiagnosis chain executed.",
+  "date_range": "~2003-2005",
+  "parameters": {
+    "M": 4,
+    "N": 4,
+    "agapi_priorities": [0.98, 0.01, 0.01, 0.01],
+    "adjusted_panic": [0.05, 0.97, 0.96, 0.95],
+    "edges": [[0,1],[0,2],[0,3]],
+    "info_resources": 7,
+    "physical_weights": [0.0, 0.0, 0.0, 1.0],
+    "superconscious_input": 2.30
+  },
+  "real_world_outcome_executed": "PERMANENT_MEDICAL_FAMILY_SEVERANCE_NO_RETURN_NO_TRUST",
+  "engine_verdict": "100% match – PERMANENT_MEDICAL_FAMILY_SEVERANCE_NO_RETURN_NO_TRUST, guilt = 0.00"
+}
