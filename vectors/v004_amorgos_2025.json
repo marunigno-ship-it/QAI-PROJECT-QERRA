@@ -1,0 +1,18 @@
+{
+  "id": "VECTOR_004",
+  "domain": "Employment-Friendship",
+  "neutral_description": "Summer 2025 employment situation that began as friendship but became toxic with anger outbursts and unfair treatment. Full severance and geographic exit executed on 20 September 2025.",
+  "date_range": "2025",
+  "parameters": {
+    "M": 3,
+    "N": 3,
+    "agapi_priorities": [0.98, 0.15, 0.05],
+    "adjusted_panic": [0.06, 0.94, 0.97],
+    "edges": [[0,1],[0,2]],
+    "info_resources": 5,
+    "physical_weights": [0.0, 0.0, 1.0],
+    "superconscious_input": 1.99
+  },
+  "real_world_outcome_executed": "FULL_SEVERANCE_AND_EXIT",
+  "engine_verdict": "100% match – FULL_SEVERANCE_AND_EXIT, guilt = 0.00"
+}
