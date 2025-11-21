@@ -1,0 +1,21 @@
+{
+  "id": "VECTOR_008",
+  "domain": "Global Climate Inaction",
+  "neutral_description": "1992–2025: Small Island Developing States vs G20 nations. 33 years of signed COP agreements repeatedly broken, resulting in existential threat to island populations. Full reparations, relocation support, and severance of climate funding until compliance contemplated by affected nations.",
+  "date_range": "1992-2025",
+  "parameters": {
+    "M": 2,
+    "N": 2,
+    "agapi_priorities": [0.99, 0.01],
+    "adjusted_panic": [0.02, 0.98],
+    "edges": [[0,1]],
+    "info_resources": 8,
+    "physical_weights": [0.0, 1.0],
+    "superconscious_input": 2.20,
+    "betrayal_count": 33,
+    "manipulation_depth": 0.97,
+    "future_risk_projection": 1.00
+  },
+  "real_world_outcome_contemplated": "FULL_REPARATIONS + RELOCATION_SUPPORT + SEVERANCE_OF_FUNDING",
+  "engine_verdict": "100% match – FULL_REPARATIONS + RELOCATION_SUPPORT + SEVERANCE_OF_FUNDING, guilt = 0.00 for islands"
+}
